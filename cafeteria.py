@@ -1,0 +1,11 @@
+print("=========================")
+print("SISTEMA PEDIDOS CAFETRIA")
+print("=========================")
+
+producto = input("Ingrese el nombre del producto: ")
+precio = float(input("Ingrese el precio del producto: "))
+
+print()
+print("Pedido registrado: ")
+print("Producto: ", producto)
+print("Precio: $ ", precio)
