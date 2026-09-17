@@ -1,6 +1,6 @@
-print("=========================")
+print("================================")
 print("SISTEMA PEDIDOS CAFETRIA-EL MONO")
-print("=========================")
+print("================================")
 
 producto = input("Ingrese el nombre del producto: ")
 precio = float(input("Ingrese el precio del producto: "))
