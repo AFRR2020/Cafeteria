@@ -1,5 +1,5 @@
 print("=========================")
-print("SISTEMA PEDIDOS CAFETRIA")
+print("SISTEMA PEDIDOS CAFETRIA-EL MONO")
 print("=========================")
 
 producto = input("Ingrese el nombre del producto: ")
